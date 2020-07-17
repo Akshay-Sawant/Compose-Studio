@@ -1,0 +1,2 @@
+com/akshay/composestudio/BuildConfig.java
+ com.akshay.composestudio.BuildConfig
